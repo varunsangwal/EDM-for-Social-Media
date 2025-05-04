@@ -1,5 +1,5 @@
-# EDM-for-Social-Media
-Designed EDM for social media with visually appealing experience. Used technologies Figma Software, Adobe Photoshop, Adobe Illustrator.
+# DesignPost-for-Social-Media
+Designed post for social media with visually appealing experience. Used technologies Figma Software, Adobe Photoshop, Adobe Illustrator.
 
 ![Sector-82 High Resolution](https://github.com/varunsangwal/EDM-for-Social-Media/assets/61310149/21e85d1e-bafd-4fe9-8f1b-592c56668996)
 
